@@ -1,15 +1,17 @@
 <template>
-  <a-layout>
-    <a-layout-header>
-      123
-    </a-layout-header>
-    <a-layout-content>
-      123
-    </a-layout-content>
-    <a-layout-footer>
-      123
-    </a-layout-footer>
-  </a-layout>
+  <a-row>
+    上周新增用户
+    总用户数
+    上周新增群聊
+    总群聊数
+  </a-row>
+  <a-row>
+    上周每天用户活跃数
+    用户活跃时间段
+  </a-row>
+  <a-row>
+    累计用户活跃数变化折线
+  </a-row>
 </template>
 
 <script>
