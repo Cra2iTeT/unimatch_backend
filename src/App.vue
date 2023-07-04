@@ -1,6 +1,5 @@
 <template>
   <indexPage/>
-  <router-view />
 </template>
 
 <script>
