@@ -1,14 +1,14 @@
 <template>
-  <indexPage/>
+  <indexView/>
 </template>
 
 <script>
-import indexPage from './views/indexPage.vue'
+import indexView from '@/views/indexDisplay/indexView.vue'
 
 export default {
   name: 'App',
   components: {
-    indexPage
+    indexView
   }
 }
 </script>
